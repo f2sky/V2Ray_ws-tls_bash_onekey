@@ -1,5 +1,5 @@
 ## V2Ray 基于 Nginx 的 vmess+ws+tls 一键安装脚本
-【鉴于新的 VLESS 协议尚未成熟，而原作者 wulabing 删除了该脚本，故保存一份作为备份】
+【鉴于新的 VLESS 协议尚未成熟，故保存一份作为备份】
 
 > 感谢 JetBrains 提供的非商业开源软件开发授权
 
